@@ -1,6 +1,6 @@
 # Gojek_App_Reviews
 Project Title:
-Gojek App Customer Satisfaction Overview-Based On User Reviews & NLP Sentiment Analysis
+Gojek App User Satisfaction Overview-Based On User Reviews & NLP Sentiment Analysis
 
 Dashboard Preview:
 ![page1](https://github.com/Pujiwara/Pictures/blob/main/gojek%20app%20reviews_page-0001.jpg)
