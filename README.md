@@ -2,6 +2,10 @@
 Project Title:
 Gojek App User Satisfaction Overview-Based On User Reviews & NLP Sentiment Analysis
 
+Link notion page:
+[(English version)](https://www.notion.so/ekapujiwara/Gojek-App-User-Satisfaction-Analysis-2cdc5d1ee80d80018e22dca663058750?source=copy_link)
+[(versi Bahasa Indonesia)](https://www.notion.so/ekapujiwara/Gojek-App-User-Satisfaction-Analysis-2cec5d1ee80d8184ba9fd83954de84c4?source=copy_link)
+
 Dashboard Preview:
 ![page1](https://github.com/Pujiwara/Pictures/blob/main/gojek%20app%20reviews_page-0001.jpg)
 ![page2](https://github.com/Pujiwara/Pictures/blob/main/gojek%20app%20reviews_page-0002.jpg)
